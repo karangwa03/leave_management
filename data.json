@@ -1,0 +1,495 @@
+{
+    "9003": {
+        "emp_id": "9003",
+        "name": "Mpape",
+        "contact": "0783969089",
+        "department": "Administration",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 5,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-09",
+                "end_date": "2025-07-18",
+                "days": 10,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "9004": {
+        "emp_id": "9004",
+        "name": "Emmy Great",
+        "contact": "0796690589",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 1,
+            "Sick": 2,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-06-26",
+                "end_date": "2025-07-09",
+                "days": 14,
+                "status": "Approved",
+                "deducted": true
+            },
+            {
+                "leave_type": "Sick",
+                "start_date": "2025-07-15",
+                "end_date": "2025-07-22",
+                "days": 8,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "9007": {
+        "emp_id": "9007",
+        "name": "Ronaldo",
+        "contact": "078945666",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 1,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-06-29",
+                "end_date": "2025-07-12",
+                "days": 14,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "9009": {
+        "emp_id": "9009",
+        "name": "Emmy karangwa",
+        "contact": "078966",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 2,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-06-30",
+                "end_date": "2025-07-12",
+                "days": 13,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "9008": {
+        "emp_id": "9008",
+        "name": "Emmy Kar",
+        "contact": "078899920",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "1112": {
+        "emp_id": "1112",
+        "name": "Emmy",
+        "contact": "",
+        "department": "",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "12003": {
+        "emp_id": "12003",
+        "name": "Mwamikazi",
+        "contact": "",
+        "department": "",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "8000": {
+        "emp_id": "8000",
+        "name": "Emmy",
+        "contact": "07893412",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "2025": {
+        "emp_id": "2025",
+        "name": "Emmy Karangwa",
+        "contact": "0789985745",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "3030": {
+        "emp_id": "3030",
+        "name": "Emmy karangwa",
+        "contact": "0796690578",
+        "department": "Administraation",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "5000": {
+        "emp_id": "5000",
+        "name": "Messi",
+        "contact": "0788444555",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 2,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-06-27",
+                "end_date": "2025-07-09",
+                "days": 13,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "9800": {
+        "emp_id": "9800",
+        "name": "Ronaldo",
+        "contact": "",
+        "department": "",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "7000": {
+        "emp_id": "7000",
+        "name": "Lmessi",
+        "contact": "07897890",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 0,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-06-26",
+                "end_date": "2025-07-10",
+                "days": 15,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "8001": {
+        "emp_id": "8001",
+        "name": "Emmy waswa",
+        "contact": "",
+        "department": "",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 0,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-02",
+                "end_date": "2025-07-16",
+                "days": 15,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "8009": {
+        "emp_id": "8009",
+        "name": "Emmy karangwa",
+        "contact": "0783969089",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "7007": {
+        "emp_id": "7007",
+        "name": "Karangwa Emmy",
+        "contact": "0796690578",
+        "department": "Administration",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 0,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-02",
+                "end_date": "2025-07-16",
+                "days": 15,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "fasd": {
+        "emp_id": "fasd",
+        "name": "Emmy",
+        "contact": "0788787878",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "30003": {
+        "emp_id": "30003",
+        "name": "karangwa EMMY",
+        "contact": "078963331",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "1001": {
+        "emp_id": "1001",
+        "name": "Karangwa Emmy",
+        "contact": "0783969089",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 0,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-02",
+                "end_date": "2025-07-16",
+                "days": 15,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "78": {
+        "emp_id": "78",
+        "name": "Emmy",
+        "contact": "0789002100",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "001": {
+        "emp_id": "001",
+        "name": "Test database",
+        "contact": "078945620",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 6,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-03",
+                "end_date": "2025-07-11",
+                "days": 9,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "02": {
+        "emp_id": "02",
+        "name": "Test databaseg",
+        "contact": "0122",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "003": {
+        "emp_id": "003",
+        "name": "Test database",
+        "contact": "1021",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "650": {
+        "emp_id": "650",
+        "name": "Emmy Karangwa",
+        "contact": "012",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 1,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-04",
+                "end_date": "2025-07-17",
+                "days": 14,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "606": {
+        "emp_id": "606",
+        "name": "Emmy karangwa",
+        "contact": "0123",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "607": {
+        "emp_id": "607",
+        "name": "Emmy Karangwa",
+        "contact": "0783969089",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "Emmy": {
+        "emp_id": "Emmy",
+        "name": "Karangwa",
+        "contact": "0789456123",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    },
+    "6033": {
+        "emp_id": "6033",
+        "name": "Emmy",
+        "contact": "0789",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 10,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": [
+            {
+                "leave_type": "Vacation",
+                "start_date": "2025-07-08",
+                "end_date": "2025-07-12",
+                "days": 5,
+                "status": "Approved",
+                "deducted": true
+            }
+        ]
+    },
+    "400": {
+        "emp_id": "400",
+        "name": "Emmy Karangwa",
+        "contact": "0789",
+        "department": "IT",
+        "password": "",
+        "leave_balances": {
+            "Vacation": 15,
+            "Sick": 10,
+            "Maternity": 90
+        },
+        "leave_requests": []
+    }
+}
