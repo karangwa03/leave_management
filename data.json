@@ -2,9 +2,9 @@
     "9003": {
         "emp_id": "9003",
         "name": "Mpape",
+        "password": "pass",
         "contact": "0783969089",
         "department": "Administration",
-        "password": "",
         "leave_balances": {
             "Vacation": 5,
             "Sick": 10,
@@ -24,9 +24,9 @@
     "9004": {
         "emp_id": "9004",
         "name": "Emmy Great",
+        "password": "",
         "contact": "0796690589",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 1,
             "Sick": 2,
@@ -54,9 +54,9 @@
     "9007": {
         "emp_id": "9007",
         "name": "Ronaldo",
+        "password": "",
         "contact": "078945666",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 1,
             "Sick": 10,
@@ -76,9 +76,9 @@
     "9009": {
         "emp_id": "9009",
         "name": "Emmy karangwa",
+        "password": "",
         "contact": "078966",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 2,
             "Sick": 10,
@@ -98,9 +98,9 @@
     "9008": {
         "emp_id": "9008",
         "name": "Emmy Kar",
+        "password": "",
         "contact": "078899920",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -111,9 +111,9 @@
     "1112": {
         "emp_id": "1112",
         "name": "Emmy",
+        "password": "",
         "contact": "",
         "department": "",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -124,9 +124,9 @@
     "12003": {
         "emp_id": "12003",
         "name": "Mwamikazi",
+        "password": "",
         "contact": "",
         "department": "",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -137,9 +137,9 @@
     "8000": {
         "emp_id": "8000",
         "name": "Emmy",
+        "password": "",
         "contact": "07893412",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -150,9 +150,9 @@
     "2025": {
         "emp_id": "2025",
         "name": "Emmy Karangwa",
+        "password": "",
         "contact": "0789985745",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -163,9 +163,9 @@
     "3030": {
         "emp_id": "3030",
         "name": "Emmy karangwa",
+        "password": "",
         "contact": "0796690578",
         "department": "Administraation",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -176,9 +176,9 @@
     "5000": {
         "emp_id": "5000",
         "name": "Messi",
+        "password": "",
         "contact": "0788444555",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 2,
             "Sick": 10,
@@ -198,9 +198,9 @@
     "9800": {
         "emp_id": "9800",
         "name": "Ronaldo",
+        "password": "",
         "contact": "",
         "department": "",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -211,9 +211,9 @@
     "7000": {
         "emp_id": "7000",
         "name": "Lmessi",
+        "password": "",
         "contact": "07897890",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 0,
             "Sick": 10,
@@ -233,9 +233,9 @@
     "8001": {
         "emp_id": "8001",
         "name": "Emmy waswa",
+        "password": "",
         "contact": "",
         "department": "",
-        "password": "",
         "leave_balances": {
             "Vacation": 0,
             "Sick": 10,
@@ -255,9 +255,9 @@
     "8009": {
         "emp_id": "8009",
         "name": "Emmy karangwa",
+        "password": "",
         "contact": "0783969089",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -268,9 +268,9 @@
     "7007": {
         "emp_id": "7007",
         "name": "Karangwa Emmy",
+        "password": "",
         "contact": "0796690578",
         "department": "Administration",
-        "password": "",
         "leave_balances": {
             "Vacation": 0,
             "Sick": 10,
@@ -290,9 +290,9 @@
     "fasd": {
         "emp_id": "fasd",
         "name": "Emmy",
+        "password": "",
         "contact": "0788787878",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -303,9 +303,9 @@
     "30003": {
         "emp_id": "30003",
         "name": "karangwa EMMY",
+        "password": "",
         "contact": "078963331",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -316,9 +316,9 @@
     "1001": {
         "emp_id": "1001",
         "name": "Karangwa Emmy",
+        "password": "",
         "contact": "0783969089",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 0,
             "Sick": 10,
@@ -338,9 +338,9 @@
     "78": {
         "emp_id": "78",
         "name": "Emmy",
+        "password": "",
         "contact": "0789002100",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -351,9 +351,9 @@
     "001": {
         "emp_id": "001",
         "name": "Test database",
+        "password": "",
         "contact": "078945620",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 6,
             "Sick": 10,
@@ -373,9 +373,9 @@
     "02": {
         "emp_id": "02",
         "name": "Test databaseg",
+        "password": "",
         "contact": "0122",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -386,9 +386,9 @@
     "003": {
         "emp_id": "003",
         "name": "Test database",
+        "password": "",
         "contact": "1021",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -399,9 +399,9 @@
     "650": {
         "emp_id": "650",
         "name": "Emmy Karangwa",
+        "password": "",
         "contact": "012",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 1,
             "Sick": 10,
@@ -421,9 +421,9 @@
     "606": {
         "emp_id": "606",
         "name": "Emmy karangwa",
+        "password": "",
         "contact": "0123",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -434,9 +434,9 @@
     "607": {
         "emp_id": "607",
         "name": "Emmy Karangwa",
+        "password": "",
         "contact": "0783969089",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -447,9 +447,9 @@
     "Emmy": {
         "emp_id": "Emmy",
         "name": "Karangwa",
+        "password": "",
         "contact": "0789456123",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
@@ -460,9 +460,9 @@
     "6033": {
         "emp_id": "6033",
         "name": "Emmy",
+        "password": "",
         "contact": "0789",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 10,
             "Sick": 10,
@@ -482,9 +482,9 @@
     "400": {
         "emp_id": "400",
         "name": "Emmy Karangwa",
+        "password": "",
         "contact": "0789",
         "department": "IT",
-        "password": "",
         "leave_balances": {
             "Vacation": 15,
             "Sick": 10,
