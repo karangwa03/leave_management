@@ -461,4 +461,8 @@ def add_employee():
     """, employees=employees)
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run(host='0.0.0.0', port=5002, debug=True)
+=======
+    app.run(host='0.0.0.0', port=5002, debug=True)
+>>>>>>> 44f8223b22556f213d9065303084d49b1a4cf490
